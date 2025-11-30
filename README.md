@@ -1,10 +1,10 @@
 # 🏪 Alura-Store
 ## Contenidos: 
 1. [📝Descripcion](#Descripcion)
-2. [⚙️ Desarollo del proyecto](#Desarollo-del-proyecto)
+2. [⚙️Desarollo del proyecto](#Desarollo-del-proyecto)
 3. [📱Tecnologias utilizadas](#Tecnologias-utilizadas)
-4. [📋 Conclucion Final](#Conclucion-Final)
-5. [🙋 Autor](#Autor)
+4. [📋Conclucion Final](#Conclucion-Final)
+5. [🙋Autor](#Autor)
 
 ## 📝 Descripcion
 Este proyecto se baso en ayudar al Sr.Juan a analizar sus 4 tiendas y chequear cual de ellas era la menos eficiente, para realizar la venta de la misma para luego comenzar un nuevo emprendimiento, durante este desafío se analizaron datos de ventas, rendimiento y reseñas de las cuatro tiendas de Alura Store.
