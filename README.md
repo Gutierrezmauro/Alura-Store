@@ -1,7 +1,7 @@
 # 🏪 Alura-Store
 ## Contenidos: 
-1. [📝Descripcion](#descripcion)             
-2. [⚙️ Desarollo del proyecto](#desarollo-del-proyecto)  
+1.[📝Descripcion](#descripcion)             
+2.[⚙️ Desarollo del proyecto](#desarollo-del-proyecto)  
 3.[📱 Tecnologias utilizadas](#tecnologias-utilizadas)  
 4.[📋 Conclucion Final](#conclucion-final)        
 5.[🙋 Autor ](#autor)                   
